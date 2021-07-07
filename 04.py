@@ -6,5 +6,10 @@ def showEmployee(name, salary=9000):
 showEmployee("SIR", 9000)
 showEmployee("SIR")
 
+
+#***************************************************** Output **************************************************************************/
+
+
+
 #Employee SIR salary is: 9000
 #Employee SIR salary is: 9000
